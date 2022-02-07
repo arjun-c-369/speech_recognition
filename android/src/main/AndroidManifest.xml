@@ -2,5 +2,9 @@
   package="bz.rxla.flutter.speechrecognition"
   android:versionCode="1"
   android:versionName="0.0.1">
-
+     <application>
+         <meta-data
+             android:name="flutterEmbedding"
+             android:value="2" />
+     </application>
 </manifest>
